@@ -1,0 +1,3 @@
+[submodule "acidwarp"]
+	path = acidwarp
+	url = https://github.com/Dermochelys/acidwarp.git
