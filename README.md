@@ -2,7 +2,7 @@
 
 ## Snap
 
-- [Snap Store Link](https://snapcraft.io/acidwarp)
+- [![acidwarp](https://snapcraft.io/acidwarp/badge.svg)](https://snapcraft.io/acidwarp)
 - Supports devices running Ubuntu 24+ and OpenGL 4.1+.
 - SDL3 is statically linked (for now) as latest Ubuntu LTS (24.04) [does not include SDL3](https://launchpad.net/ubuntu/+source/libsdl3).
 
@@ -20,6 +20,7 @@
 
 ## Previous ports
 - See the `previous_ports` folder inside the [submodule](https://github.com/Dermochelys/acidwarp).
+- Original website: https://noah.org/acidwarp/
 
 ## License
 

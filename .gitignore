@@ -25,3 +25,5 @@ libmain.so
 libmain.dylib
 Makefile
 CLAUDE.md
+
+*.snap
